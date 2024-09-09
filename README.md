@@ -27,7 +27,7 @@ I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am *
 
 - **Name**: Mr.X
 - **From**: Indonesian
-- **Blackhat Hacker** | **Cyber Security** | **Bug Hunter**|**Web Developer**
+- **Blackhat Hacker** | **Cyber Security** | **Bug Hunter** | **Web Developer**
 - i have experience in cracking,web development,hacking,bug Hunting,forensics,Social engineering,spy agent.
 -**I am a hacker**
 - Improving knowledge in **Website Vulnerabilities**
