@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am **Blackhat Hacker** and **Cyber Security**. <br>
+I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20Lord%20Mr.X)**, I am **Blackhat Hacker** and **Cyber Security**. <br>
 **Anonymous** WE ARE ANONYMOUS,WE ARE LEGION,WE DO NOT FORGIVE,WE DO NOT FORGET,EXPECT US.
 
 
