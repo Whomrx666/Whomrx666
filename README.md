@@ -37,7 +37,6 @@ I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am *
 </details>
 <br>
 
-
 ---
 
 <h2 id="present_status"> My purpose </h3>
