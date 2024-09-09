@@ -19,7 +19,7 @@
 </h2>
 
 I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am **Blackhat Hacker** or a **Cyber Security**. <br>
-**Anonymous** WE ARE ANONYMOUS, WE ARE LEGION, WE DO NOT FORGIVE, WE DO NOT FORGET, EXPECT US.
+**Anonymous** WE ARE ANONYMOUS,WE ARE LEGION,WE DO NOT FORGIVE,WE DO NOT FORGET,EXPECT US.
 
 
 <details>
