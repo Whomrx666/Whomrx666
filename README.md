@@ -1,8 +1,6 @@
 
 <p align="center">
   <img src="https://github.com/yezz123/yezz123/blob/master/img/img.gif">
-  </p>
- width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
