@@ -47,17 +47,6 @@ I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20Lord%20Mr.X)**, I am *
 
 ---
 
-<h2 id="github_stats">GitHub Stats 👨‍💻</h2>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Whomrx666&show_icons=true&theme=vision-friendly-dark&hide_border=true)](https://github.com/Whomrx666)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Whomrx666&theme=dark&hide_border=true&card_width=450)](https://git.io/streak-stats)
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whomrx666&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Top Languages" width="450"/>
-  </a>
-</p>
-
 <br><br>
 
 ---
