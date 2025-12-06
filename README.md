@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/yezz123/yezz123/blob/master/img/img.gif" alt="Banner Image">
+  <img src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf" alt="Mr.X Banner" width="28%">
 </p>
 
 <div align="center">
@@ -8,81 +8,75 @@
   </a>
 </div>
 
-<!-- 
-<h3 align="center">On a Journey to become a great Blackhat Hacker...<p align="right"></h3> 
--->
-
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf" alt="Right Image">
-
 <h2 align="left">
   Helo Ker
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="GIF"/>
 </h2>
 
-I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20Lord%20Mr.X)**, I am **Blackhat Hacker** and **Cyber Security**. <br>
-**Anonymous** WE ARE ANONYMOUS, WE ARE LEGION, WE DO NOT FORGIVE, WE DO NOT FORGET, EXPECT US.
+I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20Lord%20Mr.X)**, I am **Blackhat Hacker** and **Cyber Security**.  
+**Anonymous** — WE ARE ANONYMOUS, WE ARE LEGION, WE DO NOT FORGIVE, WE DO NOT FORGET, EXPECT US.
 
 <details>
   <summary>More about me</summary>
 
-- **Name**: Mr.X
-- **From**: Indonesian
-- **Blackhat Hacker** | **Cyber Security** | **Bug Hunter** | **Web Developer**
-- I have experience in cracking, web development, hacking, bug Hunting, forensics, Social engineering, spy agent.
-- **I am a hacker**
-- Improving knowledge in **Website Vulnerabilities**
-- I’m currently learning **everything** 
-- Reach me out at **whomrx666@gmail.com**
+- **Name**: Mr.X  
+- **From**: Indonesia  
+- **Roles**: Blackhat Hacker | Cyber Security | Bug Hunter | Web Developer  
+- I have experience in cracking, web development, hacking, bug hunting, forensics, social engineering, and spy agent operations.  
+- **I am a hacker**  
+- Improving knowledge in **Website Vulnerabilities**  
+- I’m currently learning **everything**  
+- Reach me at **whomrx666@gmail.com**
 
 </details>
+
 <br>
 
 ---
 
-<h2 id="present_status"> My purpose </h2>
+<h2 id="present_status">My Purpose</h2>
 
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59" alt="Purpose Image">
+<img width="25%" align="right" src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59" alt="Purpose Visual">
 
-👉 Anti cyber surveillance
+👉 Anti cyber surveillance  
+👉 Anti cyber censorship  
+👉 Internet activism  
+👉 Internet vigilantism  
 
-👉 Anti cyber censorship
-
-👉 Internet activism
-
-👉 Internet vigilantism
-
-`My Goal:` Journey to Great Blackhat Hacker.
+`My Goal:` Journey to become a Great Blackhat Hacker.
 
 ---
 
+<h2 id="github_stats">GitHub Stats 👨‍💻</h2>
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Whomrx666&show_icons=true&theme=vision-friendly-dark&hide_border=true)](https://github.com/Whomrx666)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Whomrx666&theme=dark&hide_border=true&card_width=450)](https://git.io/streak-stats)
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
- 
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whomrx666&theme=vision-friendly-dark)](https://github.com/Whomrx666/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Whomrx666&theme=dark&card_width=450)](https://git.io/streak-stats) 
-  <p align="left"><a href="https://github.com/coffinsp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whomrx666&layout=compact&theme=vision-friendly-dark" width="450" alt="Top Languages"/></a></p>
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whomrx666&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Top Languages" width="450"/>
+  </a>
+</p>
 
 <br><br>
 
+---
 
-
-<h2 id="donate" align=''>Donate ⚡️ Support</h2>
+<h2 id="donate">Donate ⚡️ Support</h2>
 
 <details>
   <summary>Click here</summary>
-
-  <p align="center"><a href="https://saweria.co/whomrx"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
-
+  <p align="center">
+    <a href="https://saweria.co/whomrx">
+      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+    </a>
+  </p>
 </details>
-
-
-
 
 <p align="center">
   <b><i>"You want some hack?"</i></b>
 </p>
 
 <p align="center">
-  <a>🎭</a>
+  🎭
 </p>
