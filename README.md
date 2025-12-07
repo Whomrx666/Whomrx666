@@ -70,9 +70,7 @@ I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am *
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Whomrx666&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Whomrx666&layout=compact&langs_count=8&theme=algolia"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Whomrx666&theme=algolia&line_height=27&width=27"/>
-    <div style="background-color: #121212; padding: 20px; border-radius: 10px; border: 1px solid #ffffff; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
-  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Whomrx666&theme=algolia">
-</div>
+    <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Whomrx666&theme=algolia">
      <img src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/output/github-contribution-grid-snake-dark.svg" />
 </a>
 </p>
