@@ -1,18 +1,17 @@
-<!-- CYBERPUNK NEON HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00f7ff&center=true&vCenter=true&width=500&lines=%F0%9F%92%A5+CYBERPUNK+MODE+ACTIVATED+%F0%9F%92%A5" alt="Cyberpunk Header" />
-</p>
 
-<!-- ORIGINAL CONTENT BELOW (UNCHANGED) -->
-<p align="center"><img src="https://github.com/user-attachmentsithub/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=Im+Mr.X+a+Blackhat+Hacker" alt="Typing SVG" />
   </a>
 </div>
+<!--
+<h3 align="center">On a Journey to become a great Blackhat Hacker...<p align="right"></h3> -->
+
 
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
+
 
 <h2 align="left">
   Helo Ker
@@ -21,6 +20,7 @@
 
 I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am **Blackhat Hacker** or a **Cyber Security**. <br>
 **Anonymous** WE ARE ANONYMOUS, WE ARE LEGION, WE DO NOT FORGIVE, WE DO NOT FORGET, EXPECT US.
+
 
 <details>
   <summary>More about me</summary>
@@ -37,39 +37,44 @@ I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am *
 </details>
 <br>
 
+
 ---
 
-<h2 id="present_status"> My purpose </h2>
+<h2 id="present_status"> My purpose </h3>
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-👉 Anti-cyber surveillance  
-👉 Anti-cyber censorship  
-👉 Internet activism  
-👉 Internet vigilantism  
+👉 Anti-cyber surveillance
 
-`My Goal:` Journey to Great Blackhat Hacker.
+👉 Anti-cyber censorship
+
+👉 Internet activism
+
+👉 Internet vigilantism
+
+`My Goal:`  Journey to Great Blackhat Hacker.
 
 ---
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello ,+There!+👋;IM+Mr.X+Aka+Whomrx....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;IM+Mr.X+Aka+Whomrx....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <br>
-
+<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200">
-<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=Whomrx666&theme=merko&border=599200">
-</p>
 
+<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
+<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=Whomrx666&theme=merko&border=599200">
+
+<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt">
-  <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=Whomrx666&theme=merko&layout=compact&border_color=599200&langs_count=6">
+<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=Whomrx666&theme=merko&layout=compact&border_color=599200&langs_count=6">
+
 </a>
-</p>
 
 <br>
 
@@ -78,23 +83,17 @@ I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am *
 <details>
 <summary>Click here</summary>
 
-<p align="center">
-  <a href="https://saweria.co/whomrx">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
-</p>
+<p align="center"><a href="https://saweria.co/whomrx"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
 
 </details>
+
+
+
 
 <p align="center">
   <b><i>"You want some hack?"</i></b>
 </p>
 
 <p align="center">
-  <a>🎭</a>
-</p>
-
-<!-- CYBERPUNK NEON FOOTER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/235606488-9c9d7e6f-fd79-4c8d-bce8-d2b7f1a5e734.gif" width="100%"/>
+<a>🎭</a>
 </p>
