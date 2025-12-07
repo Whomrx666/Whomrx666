@@ -1,6 +1,10 @@
+<!-- CYBERPUNK NEON HEADER -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00f7ff&center=true&vCenter=true&width=500&lines=%F0%9F%92%A5+CYBERPUNK+MODE+ACTIVATED+%F0%9F%92%A5" alt="Cyberpunk Header" />
 </p>
+
+<!-- ORIGINAL CONTENT BELOW (UNCHANGED) -->
+<p align="center"><img src="https://github.com/user-attachmentsithub/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -10,88 +14,87 @@
 
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
 
-<h2 align="left" style="color: #e02fff; text-shadow: 0 0 10px #c727ff, 0 0 20px #9d00ff;">
+<h2 align="left">
   Helo Ker
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-<p style="color: #00ff9d; text-shadow: 0 0 8px #00ff7a, 0 0 15px #00cc5c; line-height: 1.6;">
-  I'm <strong><a href="https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X" style="color: #ff2aff; text-decoration: none; text-shadow: 0 0 8px #ff00ff;">Mr.X</a></strong>, I am <strong>Blackhat Hacker</strong> or a <strong>Cyber Security</strong>. <br>
-  <em style="color: #00f7ff; text-shadow: 0 0 6px #00d0ff;">Anonymous — WE ARE ANONYMOUS, WE ARE LEGION, WE DO NOT FORGIVE, WE DO NOT FORGET, EXPECT US.</em>
-</p>
+I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am **Blackhat Hacker** or a **Cyber Security**. <br>
+**Anonymous** WE ARE ANONYMOUS, WE ARE LEGION, WE DO NOT FORGIVE, WE DO NOT FORGET, EXPECT US.
 
-<details style="border: 1px solid #9d00ff; border-radius: 8px; padding: 10px; background: #0a001a; box-shadow: 0 0 12px rgba(157, 0, 255, 0.4);">
-  <summary style="color: #ff2aff; cursor: pointer; font-weight: bold; text-shadow: 0 0 6px #ff00ff;">More about me</summary>
+<details>
+  <summary>More about me</summary>
 
-  <ul style="color: #00ffcc; list-style-type: '➤ '; padding-left: 20px;">
-    <li><strong>Name</strong>: Mr.X</li>
-    <li><strong>From</strong>: Indonesian</li>
-    <li><strong>Roles</strong>: Blackhat Hacker | Cyber Security | Bug Hunter | Web Developer</li>
-    <li>i have experience in cracking, web development, hacking, bug Hunting, forensics, Social engineering, spy agent.</li>
-    <li><strong>I am a hacker</strong></li>
-    <li>Improving knowledge in <strong>Website Vulnerabilities</strong></li>
-    <li>I’m currently learning <strong>everything</strong></li>
-    <li>Reach me out at <a href="mailto:whomrx666@gmail.com" style="color: #22F700; text-decoration: underline;">whomrx666@gmail.com</a></li>
-  </ul>
+- **Name**: Mr.X
+- **From**: Indonesian
+- **Blackhat Hacker** | **Cyber Security** | **Bug Hunter**|**Web Developer**
+- i have experience in cracking,web development,hacking,bug Hunting,forensics,Social engineering,spy agent.
+-**I am a hacker**
+- Improving knowledge in **Website Vulnerabilities**
+- I’m currently learning **everything** 
+- Reach me out at **whomrx666@gmail.com**
+
 </details>
 <br>
 
-<hr style="border: 0; border-top: 2px solid #9d00ff; box-shadow: 0 0 10px #9d00ff;">
+---
 
-<h2 id="present_status" style="color: #ff00ff; text-shadow: 0 0 10px #ff2aff, 0 0 20px #c727ff;">
-  My purpose
-</h2>
+<h2 id="present_status"> My purpose </h2>
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-<p style="color: #00f7ff; text-shadow: 0 0 8px #00ccff; line-height: 1.6;">
-  👉 Anti-cyber surveillance<br>
-  👉 Anti-cyber censorship<br>
-  👉 Internet activism<br>
-  👉 Internet vigilantism<br><br>
-  <span style="color: #ff2aff; font-weight: bold;">My Goal:</span> Journey to Great Blackhat Hacker.
-</p>
+👉 Anti-cyber surveillance  
+👉 Anti-cyber censorship  
+👉 Internet activism  
+👉 Internet vigilantism  
 
-<h1 align="center" style="color: #00ff9d; text-shadow: 0 0 12px #00ff66, 0 0 24px #00cc55;">
+`My Goal:` Journey to Great Blackhat Hacker.
+
+---
+
+<h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello ,+There!+👋;IM+Mr.X+Aka+Whomrx....;Nice+to+meet+you!&center=true&size=30" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello ,+There!+👋;IM+Mr.X+Aka+Whomrx....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200">
-  <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=Whomrx666&theme=merko&border=599200">
+<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200">
+<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=Whomrx666&theme=merko&border=599200">
 </p>
 
 <p align="center">
-  <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt">
-    <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=Whomrx666&theme=merko&layout=compact&border_color=599200&langs_count=6">
+<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt">
+  <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=Whomrx666&theme=merko&layout=compact&border_color=599200&langs_count=6">
+</a>
+</p>
+
+<br>
+
+<h2 id="donate" align=''>Donate ⚡️ Support</h2>
+
+<details>
+<summary>Click here</summary>
+
+<p align="center">
+  <a href="https://saweria.co/whomrx">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
   </a>
 </p>
 
-<br>
-
-<h2 id="donate" align="center" style="color: #ffcc00; text-shadow: 0 0 8px #ffaa00, 0 0 16px #ff8800;">
-  Donate ⚡️ Support
-</h2>
-
-<details style="border: 1px solid #ff8800; border-radius: 8px; padding: 10px; background: #1a0a00; box-shadow: 0 0 12px rgba(255, 170, 0, 0.4);">
-  <summary style="color: #ffcc00; cursor: pointer; font-weight: bold; text-shadow: 0 0 6px #ffaa00;">Click here</summary>
-  <p align="center">
-    <a href="https://saweria.co/whomrx">
-      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-    </a>
-  </p>
 </details>
 
-<br>
-
-<p align="center" style="color: #ff2aff; text-shadow: 0 0 10px #ff00ff, 0 0 20px #c700ff; font-style: italic; font-weight: bold;">
-  "You want some hack?"
+<p align="center">
+  <b><i>"You want some hack?"</i></b>
 </p>
 
-<p align="center" style="font-size: 32px; color: #00ff9d; text-shadow: 0 0 10px #00ff66;">
-  🎭
+<p align="center">
+  <a>🎭</a>
+</p>
+
+<!-- CYBERPUNK NEON FOOTER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/235606488-9c9d7e6f-fd79-4c8d-bce8-d2b7f1a5e734.gif" width="100%"/>
 </p>
