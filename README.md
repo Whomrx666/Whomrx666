@@ -56,22 +56,30 @@ I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am *
 
 ---
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mr.X+Aka+Whomrx....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<br>
 
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
- 
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whomrx666&theme=vision-friendly-dark)](https://github.com/Whomrx666/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Whomrx666&theme=dark&card_width=450)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/coffinsp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whomrx666&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
+### 📊 Github Stats
+<a href='https://github.com/Whomrx666/github-stats-transparent'>
 
-<br><br>
+![Stats Overview](https://raw.githubusercontent.com/Whomrx666/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/Whomrx666/github-stats-transparent/output/generated/languages.svg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Whomrx666&theme=dark)](https://git.io/streak-stats)
 
+</a>
 
+<br>
 
 <h2 id="donate" align=''>Donate ⚡️ Support</h2>
 
 <details>
-<summary>Buy Me A Coffee</summary>
+<summary>Click here</summary>
 
 <p align="center"><a href="https://saweria.co/whomrx"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
 
