@@ -50,7 +50,7 @@ I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am *
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+;IM+Mr.X+Aka+Whomrx....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+🫵🏻;IM+Mr.X+Aka+Whomrx....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <br>
