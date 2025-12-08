@@ -33,7 +33,6 @@ I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am *
 </details>
 <br>
 
-
 ---
 
 <h2 id="present_status"> My purpose </h2>
@@ -60,8 +59,8 @@ I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am *
 
 <p align="center">
 <a href="https://github.com/Whomrx666">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Whomrx666&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Whomrx666&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Whomrx666&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Whomrx666&layout=compact&langs_count=8&theme=algolia"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Whomrx666&theme=algolia&line_height=27&width=27"/>
   <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Whomrx666&theme=algolia"/>
   <!-- [ORIGINAL BROKEN IMAGE - DO NOT DELETE] -->
@@ -76,7 +75,7 @@ I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am *
 <h2 id="donate" align="">Donate 💸 Support</h2>
 
 <details>
-<summary>Click here</summary>
+<summary>Click here☝🏻</summary>
 
 <p align="center"><a href="https://saweria.co/whomrx"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
 
