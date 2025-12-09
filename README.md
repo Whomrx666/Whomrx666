@@ -55,6 +55,13 @@ I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am *
 </h1>
 <br>
 
+### 📊 &nbsp;GitHub Analytics 
+
+<p align="center">
+<a href="https://github.com/Whomrx666">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Whomrx666&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Whomrx666&layout=compact&langs_count=8&theme=algolia"/>
+
 <h2 id="donate" align="">Donate 💸 Support</h2>
 
 <details>
