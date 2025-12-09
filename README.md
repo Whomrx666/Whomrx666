@@ -68,8 +68,6 @@ I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am *
   
   <!-- [FIXED ADDITION - VALID SNAKE GRAPH] -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Whomrx666&theme=react-dark&hide_border=true " />
-
-Tolong perbaiki broken image yang muncul di gambar yang saya screenshot tolong perbaiki saja jangan kurangi code yang sudah ada
 </a>
 </p>
 <br>
