@@ -37,7 +37,7 @@ I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am *
 
 <h2 id="present_status"> My purpose </h2>
 
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+<img width="25%" align="right" src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59?raw=1">
 
 ⚡ Anti-cyber surveillance  
 ⚡ Anti-cyber censorship  
