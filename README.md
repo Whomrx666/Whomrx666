@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
+l<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -50,7 +50,7 @@ I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am *
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+🫵🏻;IM+Mr.X+Aka+Whomrx....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+;IM+Mr.X+Aka+Whomrx....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <br>
@@ -61,6 +61,15 @@ I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am *
 <a href="https://github.com/Whomrx666">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Whomrx666&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Whomrx666&layout=compact&langs_count=8&theme=algolia"/>
+  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Whomrx666&theme=algolia"/>
+  <!-- [ORIGINAL BROKEN IMAGE - DO NOT DELETE] -->
+  <img src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/output/github-contribution-grid-snake-dark.svg" />
+  
+  <!-- [FIXED ADDITION - VALID SNAKE GRAPH] -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Whomrx666&theme=react-dark&hide_border=true" />
+</a>
+</p>
+<br>
 
 <h2 id="donate" align="">Donate 💸 Support</h2>
 
