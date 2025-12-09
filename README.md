@@ -62,10 +62,7 @@ I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am *
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Whomrx666&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Whomrx666&layout=compact&langs_count=8&theme=algolia"/>
   <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Whomrx666&theme=algolia"/>
-  <!-- [ORIGINAL BROKEN IMAGE - DO NOT DELETE] -->
   <img src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/output/github-contribution-grid-snake-dark.svg" />
-  
-  <!-- [FIXED ADDITION - VALID SNAKE GRAPH] -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Whomrx666&theme=react-dark&hide_border=true" />
 </a>
 </p>
