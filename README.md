@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
+<img width="28%" align="right" src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf?raw=1">
 
 
 <h2 align="left">
