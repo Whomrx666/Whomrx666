@@ -1,4 +1,4 @@
-l<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -50,7 +50,7 @@ I'm **[Mr.X](https://wa.me/6285926601133?text=Helo%20My%20lord%20Mr.X)**, I am *
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+;IM+Mr.X+Aka+Whomrx....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+🫵🏻;IM+Mr.X+Aka+Whomrx....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <br>
